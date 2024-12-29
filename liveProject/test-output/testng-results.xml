@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-29T17:55:51 IST" name="Default suite" finished-at="2024-12-29T17:56:03 IST" duration-ms="11687">
+    <groups>
+    </groups>
+    <test started-at="2024-12-29T17:55:51 IST" name="Default test" finished-at="2024-12-29T17:56:03 IST" duration-ms="11687">
+      <class name="firstpackage.TC_RF_001">
+        <test-method signature="RegisterVerify()[pri:0, instance:firstpackage.TC_RF_001@58cbafc2]" started-at="2024-12-29T17:55:51 IST" name="RegisterVerify" finished-at="2024-12-29T17:56:03 IST" duration-ms="11609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterVerify -->
+      </class> <!-- firstpackage.TC_RF_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
